@@ -1,0 +1,19 @@
+body {
+       background-color: bisque;
+       font-size: larger;
+       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+h1{
+  color:red;
+  text-align:center;
+  }
+li{
+    line-height:1.5;
+
+}
+a{
+    text-decoration: none;
+    color: orange ;
+
+}
