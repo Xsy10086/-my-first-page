@@ -1,11 +1,45 @@
+*{
+     box-sizing: border-box;
+}
+
+header{
+        padding: 30px;
+
+         margin: 30px;
+      }
+nav{
+       padding: 30px;
+
+          margin: 30px;
+    }
+section{
+          padding: 30px;
+        border-color: rgb(55, 55, 137);
+        border: 15px solid rgb(57, 57, 137);
+        border-radius: 15px;
+
+
+        margin: 30px;
+
+
+       }
+
+footer{
+         
+         padding: 30px;
+   
+        margin: 30px;
+
+     }
+
 body {
-       background-color: bisque;
+       background-color: rgb(1, 41, 71);
        font-size: larger;
        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
     }
 h1{
-  color:red;
+  color:rgb(233, 191, 224);
   text-align:center;
   }
 li{
@@ -14,6 +48,27 @@ li{
 }
 a{
     text-decoration: none;
-    color: orange ;
+    color: rgb(92, 206, 255) ;
+
+}
+p{
+
+   color: aqua;
+
+
+
+}
+li{
+
+   color: aqua;
+
+
+
+}
+h2{
+
+   color: aqua;
+
+
 
 }
