@@ -2,6 +2,15 @@
      box-sizing: border-box;
 }
 
+main{
+
+   display:flex;
+   gap: 20px;
+
+
+}
+
+
 header{
         padding: 60px;
 
@@ -9,13 +18,16 @@ header{
       }
 nav{
        padding: 15px;
-
+        display: flex;
+        gap: 20px;
           margin: 30px;
+             justify-content: center;
+
     }
 section{
            
           padding: 30px;
-       
+           flex: 1;
         border: 2px solid rgb(57, 57, 137);
         border-radius: 15px;
 
